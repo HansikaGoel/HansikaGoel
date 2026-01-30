@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HansikaGoel
-- 👀 I’m interested in learning programming machine language 
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in learning programming solving.
+- 🌱 I’m currently learning react.js and backend.
 - 💞️ I’m looking to collaborate on various unique projects
 
 <!---
